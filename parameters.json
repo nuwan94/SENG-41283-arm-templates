@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_setu_api_name": {
+            "value": null
+        },
+        "sites_setu_func_name": {
+            "value": null
+        },
+        "sites_setu_db_api_name": {
+            "value": null
+        },
+        "Redis_setu_cache_name": {
+            "value": null
+        },
+        "frontdoors_setufd_name": {
+            "value": null
+        },
+        "servers_setu_db_name": {
+            "value": null
+        },
+        "vaults_setu_vault_name": {
+            "value": null
+        },
+        "serverfarms_setu_app_plan_name": {
+            "value": null
+        },
+        "serverfarms_setu_app_plan_2_name": {
+            "value": null
+        },
+        "components_setu_monitor_name": {
+            "value": null
+        },
+        "storageAccounts_setustorage_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_setuwaf_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___setu_monitor_name": {
+            "value": null
+        }
+    }
+}
